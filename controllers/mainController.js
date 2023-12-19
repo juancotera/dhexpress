@@ -1,6 +1,6 @@
 const controlador = {
   index:(req, res) => {
-    res.send('index de productos');
+    res.send('Hola, ya estamos listos, aqui el main.');
   }
 };
 
